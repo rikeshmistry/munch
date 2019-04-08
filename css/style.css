@@ -10,7 +10,7 @@ body {
   width: 1100px;
   /* The margin property creates space around the outside of elements. It takes 4 values - top, right, bottom, left. 0 auto 0 auto sets the top & bottom to 0 margin, and the left and right to automatically resize margins to put content in the middle */
   margin: 0 auto 0 auto;
-  font-family: "Georgia", "Times New Roman", san-serif;
+  font-family: 'Montserrat', san-serif;
 }
 
 header {
@@ -24,7 +24,7 @@ nav {
 
 /* Apply styles to links  (a tags) inside nav */
 nav a {
-  font-family: "Monserrat", "san-serif";
+  font-family: 'Monserrat', san-serif;
   font-weight: 700;
   color: #141618;
   /* Remove underline from links */
@@ -56,7 +56,7 @@ h2 {
 
 h3 {
   /* Change the font to Monserrat */
-  font-family: "Monserrat", san-serif;
+  font-family: 'Monserrat', san-serif;
   /* Make the font bold = 700 */
   font-weight: 700;
   /* Font to 24px */
@@ -86,7 +86,7 @@ div.post-content a:hover {
 }
 
 div.post-details {
-  font-family: "Montserrat", sans-sefif;
+  font-family: 'Montserrat', sans-sefif;
   text-transform: uppercase;
   font-size: 12px;
   font-weight: 700;
@@ -97,7 +97,7 @@ div.post-details {
 
 footer {
   text-align: center;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #7e8081;
 }
 
@@ -114,7 +114,7 @@ form div {
 label {
   /* Make the labels sit on top of the form fields */
   display: block;
-  font-family: "Montserrat", sans-sefif;
+  font-family: 'Montserrat', sans-sefif;
   text-transform: uppercase;
   font-size: 12px;
   color: #B2B2B2;
